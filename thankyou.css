@@ -1,0 +1,21 @@
+h1{
+  font-family: 'Lobster', cursive;
+  font-size: 40px;
+  margin-top: 60px;
+}
+body{
+  background-color: #001f2b;
+  border: 40px solid #20ced4;
+  margin: 0px;
+  text-align: center;
+  border-top: 0px;
+}
+div{
+  height: 500px;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-bottom: 50px;
+}
+.text{
+  color: #e2e1e8;
+}
